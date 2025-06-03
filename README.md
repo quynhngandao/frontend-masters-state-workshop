@@ -50,7 +50,7 @@ pnpm test
 
 - [Exercise: Antipatterns](http://localhost:3000/exercise-antipatterns) [(📃 Code)](./src/app/exercise-antipatterns/page.tsx) - Common React state management mistakes
 - [Exercise: Diagrams](http://localhost:3000/exercise-diagrams) [(📃 Code)](./src/app/exercise-diagrams/readme.md) - State visualization techniques
-- [Exercise: Finite states](http://localhost:3000/exercise-finite) [(📃 Code)](./src/app/exercise-finite/page.tsx) - Combining state patterns
+- [Exercise: Finite states](http://localhost:3000/exercise-finite) [(📃 Code)](page.tsx) - Combining state patterns
 - [Exercise: Reducers](http://localhost:3000/exercise-reducer) [(📃 Code)](./src/app/exercise-reducer/page.tsx) - Building with `useReducer`
 - [Exercise: Forms](http://localhost:3000/exercise-form) [(📃 Code)](./src/app/exercise-form/page.tsx) - Form handling
 - [Exercise: URL](http://localhost:3000/exercise-url) [(📃 Code)](./src/app/exercise-url/page.tsx) - URL state synchronization
