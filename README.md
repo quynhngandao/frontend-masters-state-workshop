@@ -1,14 +1,16 @@
-# Frontend Masters State Workshop
+# State Management at Scale in React & Next.js
+This is a companion repository for the [State Management at Scale in React & Next.js](https://frontendmasters.com/courses/react-nextjs-state/) course on Frontend Masters.
+[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)](https://frontendmasters.com/courses/react-nextjs-state/)
 
-In this workshop, we'll build and evolve a production-ready React application with scalable state management patterns. We'll start with the basics and progressively tackle more complex state challenges by implementing event-driven architecture, handling multiple sources of truth, and optimizing performance.
+In this course, we'll build and evolve a production-ready React application with scalable state management patterns. We'll start with the basics and progressively tackle more complex state challenges by implementing event-driven architecture, handling multiple sources of truth, and optimizing performance.
 
-## Workshop Overview
+## Course Overview
 
-You'll learn state management principles that can be applied to any application, regardless of framework, size, or complexity. This workshop combines theory with hands-on practice through a series of progressive exercises.
+You'll learn state management principles that can be applied to any application, regardless of framework, size, or complexity. This course combines theory with hands-on practice through a series of progressive exercises.
 
 ### Key Takeaways
 
-By participating in this workshop, you'll learn to:
+By participating in this course, you'll learn to:
 
 - **Architect state management solutions** that scale with application complexity
 - **Avoid common React state management pitfalls** and anti-patterns
@@ -37,7 +39,7 @@ pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the workshop application.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the course application.
 
 ### Testing
 
@@ -46,7 +48,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 pnpm test
 ```
 
-## Workshop Schedule & Exercises
+## Course Schedule & Exercises
 
 - [Exercise: Antipatterns](http://localhost:3000/exercise-antipatterns) [(📃 Code)](./src/app/exercise-antipatterns/page.tsx) - Common React state management mistakes
 - [Exercise: Diagrams](http://localhost:3000/exercise-diagrams) [(📃 Code)](./src/app/exercise-diagrams/readme.md) - State visualization techniques
