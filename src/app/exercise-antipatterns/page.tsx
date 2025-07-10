@@ -498,7 +498,7 @@ function HotelSelection() {
                   ? 'border-primary bg-primary/5'
                   : 'hover:bg-accent'
               }`}
-              onClick={() => handleHotelSelect(hotel)}
+              onClick={() => handleHotelSelect(hotel.id)}
             >
               <div className="flex items-center justify-between">
                 <div>
