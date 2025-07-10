@@ -374,7 +374,7 @@ function HotelGallery() {
           ))}
         </div>
         <div className="mt-4 text-xs text-muted-foreground">
-          Debug: Last scroll position: {lastScrollPosition}px
+          Debug: Last scroll position: {lastScrollPositionRef.current}px
         </div>
       </CardContent>
     </Card>
